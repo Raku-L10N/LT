@@ -1,0 +1,28 @@
+{
+  "auth": "zef:l10n",
+  "authors": [
+    "Liz"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Lithuanian localization of Raku",
+  "license": "Artistic-2.0",
+  "name": "L10N::LT",
+  "perl": "6.d",
+  "provides": {
+    "L10N::LT": "lib/L10N/LT.rakumod",
+    "RakuAST::Deparse::L10N::LT": "lib/RakuAST/Deparse/L10N/LT.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+    "LOCALIZATION",
+    "Lithuanian"
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
